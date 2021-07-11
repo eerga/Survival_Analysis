@@ -1,9 +1,9 @@
 # Survival Analysis of Patients with Diabetic Retinopathy
-
+---
 ## What is Survival Analysis?
 Survival Analysis investigates the time it takes for an event to occur.
 
-## Data We Used
+## Data Used
 The data we used comes from R's *survival* package under *diabetic* dataframe,
 which contains partial results from a trial of laser coagulation for the treatment
 of diabetic retinopathy. Diabetic retinopathy is caused by damage to the blood vessels
