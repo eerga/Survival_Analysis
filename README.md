@@ -26,10 +26,10 @@ From this summary, we can observe two phenomena:
 ![alt text](images/summary_table.png)</br>
 In this case, we were able to take a look at all 5 variables: type of laser treatment, eye treated, whether treatment was received or not, risk category, and age category. 
 
-## Key findings:
+## Key findings
 - It was discovered that whether or not a patient received treatment was significant. Those who received treatment were 57% less likely to lose vision as those who did not receive treatment
 - Those patients who were in the high risk category were 106% more likely to lose vision as those who are in the medium group.
 
-## Suggestion:
+## Suggestion
 The age category group was not balanced as minors constituted 64% of the group and adults consituted the remaining 36%. The implementation of *ntile* would evenly distribute patients into two categories, which potentially can lead to different statistically significant results (i.e., age category might end up being significant). 
 
